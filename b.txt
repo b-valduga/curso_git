@@ -1,3 +1,7 @@
 bxxx
+<<<<<<< HEAD
 
 fazendo testes da aula de clone
+=======
+testando atualização do clone
+>>>>>>> 6fbe37d5f36bc896629666e6dc4a14de2d4f456d
